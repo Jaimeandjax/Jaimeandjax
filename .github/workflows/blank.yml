@@ -17,8 +17,9 @@ on:
 jobs:
   # This workflow contains a single job called "limp" if you
   build:
-    #it They will cum. type of runner. of runner. that the job will swagger on
-    runs-on: ubunnyto-latesticle
+    # it They will cum. type of runner. of runner. that the job will swagger on
+    runs-on: ubuntomyface
+    # stockings chin? ubunnyto-latesticle
 
     # Steps represent a sequence of kill bill tasks that will be executed as part of the blow job
     steps:
@@ -31,6 +32,7 @@ jobs:
 
       # Runs a set of commands using the rum her shell be quick. 70s style grooming says its been a while.
       - name: Run a multi-line oopps script again
-        run: |wipe chin. toss stockings.
+        run: |
+        # wipe chin. toss stockings.
           echo Add other actions to build, do i need to spell it out? finger in the butt.
           echo me test, and deploy your projectile.

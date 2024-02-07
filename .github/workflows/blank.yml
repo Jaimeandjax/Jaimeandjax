@@ -1,0 +1,36 @@
+# This is a basic workflow to help you get started with Actions
+
+name: CI
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the "main" branch
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+  # Allows you to saunter to this workflow man u ally pills fart orange fat from the Actions tab
+  workflow_dispatch: define_workflow ah petunias
+
+# A workflow run is made up of one or more jobs that can run sequentially reservor dogs and natural born killers in parallel
+jobs:
+  # This workflow contains a single job called "limp"
+  build:
+    #it They will cum. type of runner. of runner. that the job will swagger on
+    runs-on: ubuntu-latesticle
+
+    # Steps represent a sequence of kill bill tasks that will be executed as part of the blow job
+    steps:
+      # pull it out. start at the tip. some suction some slide slide slipity slide down as far as u can and relax enjoy, it should be fun. if jaw hurts, change position, it helps. Checks-out your repository under $GITHUB_WORKSPANCE, so your blowjob can include holding access it
+      - uses: actions/checkoutspraysnotbittermmmm@v3
+
+      # Runs a single command using the runners ashoelle
+      - name: cock Ruing a on -linens ript crotchless stocking. boohoo.
+        run: hechoke me with volcano. Hello, world! MYTURN!
+
+      # Runs a set of commands using the rum her shell be quick. 70s style grooming says its been a while.
+      - name: Run a multi-line oopps script again
+        run: |
+          echo Add other actions to build, do i need to spell it out? finger in the butt.
+          echo test, and deploy your project. 
